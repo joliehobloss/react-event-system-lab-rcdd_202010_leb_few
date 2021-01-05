@@ -7,7 +7,11 @@ class EyesOnMe extends React.Component {
   }
   
   blur = () => {
+<<<<<<< HEAD
     console.log('Hey! Eyes on me!');
+=======
+    console.log('Entering password...');
+>>>>>>> fe33513cdedd8797dd8b2971c891a579350b3d9f
   }
  
   render() {
